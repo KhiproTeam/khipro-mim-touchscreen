@@ -1,12 +1,12 @@
 [Read in English](README.en.md)
 ## আমাদের ওয়েবসাইট (Website):
-### https://khipro.khiproteam.pro.bd/
+### https://khipro.khiproteam.com/
 
 # ক্ষিপ্র khipro-MIM-touchscreen
 
 ![khipro-m17n](https://socialify.git.ci/KhiproTeam/khipro-MIM-touchscreen/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FKhiproTeam%2Fkhipro-MIM-touchscreen%2Fmain%2Fbn-khipro.png&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
-এটি ক্ষিপ্র m17n -এর টাচস্ক্রিন সংস্করণ। যেসব টাচস্ক্রিন কিবোর্ডে m17n লাইব্রেরির মতো MIM ফরম্যাটের লেআউটের সাপোর্ট রয়েছে সেসব কিবোর্ড অ্যাপে এই রিপোজিটরির কোড সরাসরি কোড ব্যবহার করা যাবে। টাচস্ক্রিনের জন্য কী কী পরিবর্তন করা হয় তা এখানে দেখুন: [টাচস্ক্রিনে অ্যাডাপটেশনের জন্য সাজেশন](https://khipro.khiproteam.pro.bd/documentation/#tchshkrn-ojdptshnr-jnj-shjshn)
+এটি ক্ষিপ্র m17n -এর টাচস্ক্রিন সংস্করণ। যেসব টাচস্ক্রিন কিবোর্ডে m17n লাইব্রেরির মতো MIM ফরম্যাটের লেআউটের সাপোর্ট রয়েছে সেসব কিবোর্ড অ্যাপে এই রিপোজিটরির কোড সরাসরি কোড ব্যবহার করা যাবে। টাচস্ক্রিনের জন্য কী কী পরিবর্তন করা হয় তা এখানে দেখুন: [টাচস্ক্রিনে অ্যাডাপটেশনের জন্য সাজেশন](https://khipro.khiproteam.com/documentation/#tchshkrn-ojdptshnr-jnj-shjshn)
 
 - **লিনাক্সে**, **উইন্ডোজে**, ও **অ্যান্ড্রয়েডে** ক্ষিপ্র লেআউট ব্যবহার করা যাচ্ছে।
 
@@ -25,7 +25,7 @@
 
 লিনাক্সে টাইপিং বুস্টারের মাধ্যমে ক্ষিপ্র আরও ক্ষিপ্রতর হয়, যেখানে পরবর্তী একাধিক শব্দের সাজেশন পাওয়া যায়। উইন্ডোজ, অ্যান্ড্রয়েডসহ অন্যান্য প্ল্যাটফর্মেও ক্ষিপ্র ইমপ্লিমেন্ট করা অ্যাপ দিয়ে প্রেডিকটিভ টেক্সট সুবিধা ব্যবহার করা যাবে।
 
-ক্ষিপ্রতে কারচিহ্নকে ফোর্স করে স্বরবর্ণ বানানো, কিংবা স্বরবর্ণ কে ফোর্স করে কারচিহ্ন বানানো মাত্র একটা বাটন প্রেস করে করা সম্ভব। এরকম আরো বেশকিছু ফিচার রয়েছে যেগুলোর উল্লেখ [ক্ষিপ্র কুইক্সটার্ট গাইডে](https://khipro.khiproteam.pro.bd/quickstart/) করা হয়েছে।
+ক্ষিপ্রতে কারচিহ্নকে ফোর্স করে স্বরবর্ণ বানানো, কিংবা স্বরবর্ণ কে ফোর্স করে কারচিহ্ন বানানো মাত্র একটা বাটন প্রেস করে করা সম্ভব। এরকম আরো বেশকিছু ফিচার রয়েছে যেগুলোর উল্লেখ [ক্ষিপ্র কুইক্সটার্ট গাইডে](https://khipro.khiproteam.com/quickstart/) করা হয়েছে।
 
 
 ## ডেমো ভিডিয়ো:
@@ -37,13 +37,13 @@
 ## ক্ষিপ্র লেআউট এক নজরে
 ![ক্ষিপ্র লেআউট এক নজরে](https://raw.githubusercontent.com/KhiproTeam/khipro-at-a-glance/refs/heads/main/the_table_2.svg)
 
-## [ক্ষিপ্র কুইকস্টার্ট](https://khipro.khiproteam.pro.bd/quickstart/)
+## [ক্ষিপ্র কুইকস্টার্ট](https://khipro.khiproteam.com/quickstart/)
 
 আমাদের ওয়েবসাইটে ক্ষিপ্র ব্যবহার করার উপায়, টিপস, ও ট্রিকস রয়েছে।  
-ভিজিট করুন https://khipro.khiproteam.pro.bd/quickstart/
+ভিজিট করুন https://khipro.khiproteam.com/quickstart/
 
-## [লাইভ ডেমো](https://khipro.khiproteam.pro.bd/quickstart/#libh-tipn-dm)
-ক্ষিপ্র ইনস্টল করা ছাড়াই টেস্টিং করতে [এখানে ক্লিক করুন](https://khipro.khiproteam.pro.bd/quickstart/#libh-tipn-dm)।
+## [লাইভ ডেমো](https://khipro.khiproteam.com/quickstart/#libh-tipn-dm)
+ক্ষিপ্র ইনস্টল করা ছাড়াই টেস্টিং করতে [এখানে ক্লিক করুন](https://khipro.khiproteam.com/quickstart/#libh-tipn-dm)।
 
 
 
