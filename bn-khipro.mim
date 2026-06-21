@@ -311,7 +311,7 @@
 		("|" "|")
 	)
 	(blinder
-		("\\" "\\")
+		;; not needed for touchscreen
 	)
 )
 
